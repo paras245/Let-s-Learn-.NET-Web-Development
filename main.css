@@ -1,0 +1,19 @@
+#heading-1{
+    color:darkmagenta;
+}
+
+*{
+    font-family: monospace;
+}
+
+.featured{
+  width:200px;
+  padding:4px;
+  border-radius: 50%;
+  outline:6px solid purple;   
+}
+
+/* body{
+    background-color: black;
+} */
+
